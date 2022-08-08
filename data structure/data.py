@@ -1,0 +1,3 @@
+story = '''Just then, a monkey noticed her and started making fun of her. He told her to stay away lest a boulder crush her. Hearing this, everyone started making fun of her. The squirrel was in tears. Lord Rama was noticing all this from a distance.
+
+Upset, the squirrel went to Lord Rama and complained about everyone to him. Lord Rama then demonstrated to the Army how the pebble thrown by the squirrel has worked as the connector between the two boulders. Even her contribution is as valuable as the other members of the army.'''
